@@ -1,4 +1,6 @@
-### Hi there 👋
+I am in the process of setting up GitHub and will fill in this page in the near future.
+
+I studied computer sciend and physics for my undergrad then went on to do honours and a PhD in physics.  After Uni I worked in medical physics in proton therapy for 12 years until my company went into receivership and I became redundant.  I am now retraining as a software engineer.
 
 <!--
 **jamillambert/jamillambert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
