@@ -1,1 +1,5 @@
-I studied computer science (including c++ and Java) and physics at Sydney University, then went on to do honours and a PhD.  After university I worked for 12 years using c++, Python, Octave (MatLab) and LabView to write software to analyse measurement data and Python to script analysis of measurements and for the treatment planning system Raystation as part of my job in medical physics in proton therapy. I recently decided to move full time into software engineering and have been spending my time honing my coding skills in particular Python, Rust, and programming Bitcoin.
+Studied computer science (including c++ and Java) and physics at Sydney University, then went on to do honours and a PhD.
+
+Worked for over 15 years using c++, Python (NumPY, Pandas), Octave (MATLAB) and LabVIEW to write software to analyse measurement data and Python to write scripts for the treatment planning system Raystation while working as a medical physicist in proton therapy.
+
+Recently decided to move full time into software engineering and worked independently honing coding skills in particular Python, Rust, and programming Bitcoin.
