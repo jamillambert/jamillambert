@@ -2,4 +2,4 @@ An experienced professional with over 15 year working as a medical physicist in 
 
 Studied computer science (C++, Java) and a PhD in physics at Sydney University.
 
-Recently decided to transition full-time into software engineering, and currently focusing on Open Source Software Development in Rust.
+Recently decided to transition full-time into software engineering.  Currently focusing on Open Source Software Development in Rust, taking advantage of recent developments in AI to improve productivity.
