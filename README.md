@@ -1,5 +1,5 @@
-Studied computer science (including c++ and Java) and physics at Sydney University, then went on to do honours and a PhD.
+An experienced professional with over 15 year working as a medical physicist in proton therapy, utilizing C++, Python (NumPy, Pandas), Octave (MATLAB), and LabVIEW to develop software for controlling equipment and analyzing measurement data. Additionally, wrote scripts in python for the Raystation treatment planning system. 
 
-Worked for over 15 years using c++, Python (NumPY, Pandas), Octave (MATLAB) and LabVIEW to write software to analyse measurement data and Python to write scripts for the treatment planning system Raystation while working as a medical physicist in proton therapy.
+Studied computer science (C++, Java) and a PhD in physics at Sydney University.
 
-Recently decided to move full time into software engineering and worked independently honing coding skills in particular Python, Rust, and programming Bitcoin.
+Recently decided to transition full-time into software engineering, and currently focusing on Open Source Software Development in Rust.
